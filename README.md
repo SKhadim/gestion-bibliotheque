@@ -23,5 +23,6 @@ Représentation choisie : Emprunt porte un `livreId` (association par identifian
 
 `Livre` et `Emprunt` sont déclarées `final` car aucun sous-type n'est requis dans cet exercice.
 
+
 ## Données de démonstration
 La classe `Demo` initialise 5 livres et 2 emprunts en mémoire (ArrayList), afin de vérifier que le modèle fonctionne correctement. Aucune base de données n'est utilisée à ce stade.
