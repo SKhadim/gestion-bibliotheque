@@ -1,0 +1,11 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>sn.woy</groupId>
+    <artifactId>gestion-bibliotheque</artifactId>
+    <version>0.1.0</version>
+
+    <properties>
+        <maven.compiler.release>26</maven.compiler.release>
+    </properties>
+</project>
